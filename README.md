@@ -15,9 +15,10 @@
  - [重筑邯一-MC项目](https://mc.01yf.cn)
 ## 使用的开源软件
 在本网站的搭建过程中使用了一些开源软件，以下是这些开源软件、组件的清单：
-- [WordPress](https://github.com/WordPress/WordPress/)([GPL-2.0 license](https://github.com/WordPress/WordPress/blob/master/license.txt))--主网站的搭建
-- [AList](https://alist.nn.ci/)([AGPL-3.0 license](https://github.com/alist-org/alist/blob/main/LICENSE))--文件分享系统的搭建
+- [WordPress](https://github.com/WordPress/WordPress/)([GPL-2.0 license](https://github.com/WordPress/WordPress/blob/master/license.txt))--主网站的搭建 
+- [AList](https://alist.nn.ci/)([AGPL-3.0 license](https://github.com/alist-org/alist/blob/main/LICENSE))--文件分享系统的搭建 
 - [RStudio-server](https://github.com/rstudio/rstudio)([AGPL-3.0 license](https://github.com/rstudio/rstudio/blob/main/COPYING))--R语言在线编译的搭建
-- 在这里衷心感谢以上开源软件的作者
+在这里衷心感谢以上开源软件的作者
+
 ## 联系方式
 邮箱：<server@01yf.cn>
