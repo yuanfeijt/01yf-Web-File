@@ -15,6 +15,6 @@
 ## 使用的开源软件
 在本网站的搭建过程中使用了一些开源软件，以下是这些开源软件、组件的清单：
 - [AList](https://alist.nn.ci/)([AGPL-3.0 license](https://github.com/alist-org/alist/blob/main/LICENSE))
-- [WordPress](https://github.com/WordPress/WordPress/)[GPL-2.0](https://github.com/WordPress/WordPress/blob/master/license.txt)
+- [WordPress](https://github.com/WordPress/WordPress/)([GPL-2.0])(https://github.com/WordPress/WordPress/blob/master/license.txt)
 ## 联系方式
 邮箱：<server@01yf.cn>
